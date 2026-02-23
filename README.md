@@ -271,3 +271,26 @@ Install Webcam for Windows, Mac or Linux, download Iriun Webcam app to your mobi
    <h3>Is a free and open-source SSH File Transfer Protocol, File Transfer Protocol, WebDAV, Amazon S3, and secure copy protocol client for Microsoft Windows. Its main function is secure file transfer between a local computer and a remote server. </h3>
 </details>
 </h2>
+
+<h2 align="center">
+
+:link: [GlazeWM]([https://github.com/unmojang/FjordLauncher](https://github.com/glzr-io/glazewm))
+<details>
+    <summary>Info About Software</summary>
+   <h3>GlazeWM is a tiling window manager for Windows inspired by i3wm.</h3>
+</details>
+</h2>
+
+<h1 align="center">
+Gaming Software🎮
+</h1>
+
+<h2 align="center">
+
+:link: [FjordLauncher](https://github.com/unmojang/FjordLauncher)
+<details>
+    <summary>Info About Software</summary>
+   <h3>Prism Launcher fork with support for alternative auth servers</h3>
+</details>
+</h2>
+
